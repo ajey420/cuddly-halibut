@@ -1,0 +1,1 @@
+https://api.upstox.com/v2/historical-candle/NSE_EQ%7C{}/{}/{}/{}
